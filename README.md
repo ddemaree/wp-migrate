@@ -40,3 +40,5 @@ pnpm ./bin/dev.js
 This tool is free software, licensed under the MIT License. See the [LICENSE](./LICENSE.md) file for more details.
 
 Copyright (c) 2024 Bits & Letters LLC.
+
+Oh, and one more thing: WordPress is a registered trademark of the WordPress Foundation, under exclusive license to Automattic, Inc. This project is not affiliated with Matt Mullenweg, Automattic, or the WordPress Foundation. This project is brought to you by the letters W, P, F, and U.
